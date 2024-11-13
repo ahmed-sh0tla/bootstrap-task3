@@ -1,0 +1,36 @@
+.g-phone{
+    transform: rotate(30deg); 
+}
+
+h1{
+    font-size: 70px;
+}
+
+.phone{
+    position: absolute;
+    top: 150px;
+    left: 999px;
+}
+
+
+.drag-down{
+    background-color: rgba(81, 81, 235, 0.893);
+}
+
+.list-group{
+    display: none;
+
+}
+
+.drag-down:hover .list-group{
+    display: block;
+}
+
+.a1:hover{
+    background-color: rgba(0, 0, 255, 0.727); }
+
+
+ .a2:hover{
+    background-color:rgba(0, 0, 255, 0.786);
+ }
+
